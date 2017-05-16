@@ -1,0 +1,42 @@
+-Moving Platforms - partially done 
+	-rotating
+	-non-rotating - done
+	-one-way/non one-way - done
+-Player melee attack
+	-kick
+	-punch
+	-combos hopefully
+-Player take damage
+	-knockback
+	-grace period
+-Player death animation
+-Levelling
+	-EXP points
+	-Player damage dependent on player level
+	-Unlock sprinting, wall jump, etc. according to player level
+-Screen fade in from black/out to black
+-Revamp inventory system
+-More AI types
+	-Shooting AI
+	-Slimes-from-minecraft-type of AI
+-Key icon
+-Backgrounds - done
+	-Static backgrounds - done
+	-Repeating backgrounds - done
+	-Parallax backgrounds - done
+-Level Hazards
+	-Deal damage to player
+-Camera
+	-Rotation
+-Hub World/Ship/Something like that
+	-Arsenal for weapons picked up while doing missions
+	-Artifact collection
+-Reusable art assets for level design
+-Intro level
+	-cutscenes/dialogue at least
+-Missions played from hub world/ship unlocked after intro level
+-NPCs
+	-give special items
+	-can be encountered during missions
+-Bosses
+	-

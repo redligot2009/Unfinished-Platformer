@@ -1,0 +1,17 @@
+{
+	"dialogues":
+	[
+		{"name": "no_name", 
+		"line": "The womb split open.",
+		"command": "zoom",
+		"commandVal": "9.0"},
+		{"name": "no_name",
+		"line": "Out of it sprang you..."},
+		{"name": "no_name",
+		"line": "Your face was blank- expressionless like a robot."},
+		{"name": "no_name",
+		"line": "Press A or D to move."},
+		{"name": "no_name",
+		"line": "Press Space to jump."}
+	]
+}

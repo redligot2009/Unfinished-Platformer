@@ -1,0 +1,9 @@
+{
+	"dialogues":
+	[
+		{"name": "???", 
+		"line": "Hello there."},
+		{"name": "???",
+		"line": "Welcome to The Cave."}
+	]
+}

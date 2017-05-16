@@ -1,0 +1,1152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"entity",
+				"entityAbove\tList<Transform>"
+			],
+			[
+				"new",
+				"newPos\t(PathFollow.cs)"
+			],
+			[
+				"upPlatfor",
+				"upPlatformHit"
+			],
+			[
+				"RemoveAt",
+				"RemoveAt(int index)\tvoid"
+			],
+			[
+				"Find",
+				"Find(Predicate<T> match)\tBasicItem"
+			],
+			[
+				"Inve",
+				"InventoryList"
+			],
+			[
+				"Inventor",
+				"InventoryList"
+			],
+			[
+				"invent",
+				"inventory.InventoryList"
+			],
+			[
+				"Inven",
+				"InventoryList\t(Inventory.cs)"
+			],
+			[
+				"basicite",
+				"basicItem\tBasicItem"
+			],
+			[
+				"fi",
+				"firstEmptySlot\tint"
+			],
+			[
+				"velo",
+				"velocity\t(BasicItem.cs)"
+			],
+			[
+				"direct",
+				"directionY"
+			],
+			[
+				"boudn",
+				"bounds.min.y"
+			],
+			[
+				"myColli",
+				"myCollider\tBoxCollider2D"
+			],
+			[
+				"bounds",
+				"bounds.max.y\t(Controller2D.cs)"
+			],
+			[
+				"transf",
+				"transform.position"
+			],
+			[
+				"rayc",
+				"raycastOrigins.bottomLeft\t(Controller2D.cs)"
+			],
+			[
+				"getC",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"trans",
+				"transform\tTransform { get; }"
+			],
+			[
+				"uppla",
+				"upPlatformHit"
+			],
+			[
+				"raycast",
+				"raycastOrigins.bottomLeft"
+			],
+			[
+				"y",
+				"y\tfloat"
+			],
+			[
+				"collid",
+				"collider2D\tComponent { get; }"
+			],
+			[
+				"Invet",
+				"Inventory"
+			],
+			[
+				"Contain",
+				"Contains(T item)\tbool"
+			],
+			[
+				"Conta",
+				"Contains(T item)\tbool"
+			],
+			[
+				"passe",
+				"passengerLayers"
+			],
+			[
+				"veloc",
+				"velocity.y"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"game",
+				"gameObject.layer\t(PathFollow.cs)"
+			],
+			[
+				"Trig",
+				"TriggerOnPlatformBehavior(LayerMask myLayer)\tvoid"
+			],
+			[
+				"Fin",
+				"Find(string name)\tTransform"
+			],
+			[
+				"BoxC",
+				"BoxCollider2D\t(Cutscene.cs)"
+			],
+			[
+				"colli",
+				"collisions.below\t(Controller2D.cs)"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"tran",
+				"transform.position\t(Controller2D.cs)"
+			],
+			[
+				"Onewa",
+				"OneWayType.up"
+			],
+			[
+				"Check",
+				"CheckVertical\t(Controller2D.cs)"
+			],
+			[
+				"Boxc",
+				"BoxCollider2D\t(Cutscene.cs)"
+			],
+			[
+				"e",
+				"e\tTransform"
+			],
+			[
+				"OneWay",
+				"OneWay"
+			],
+			[
+				"u",
+				"up\tOneWayType"
+			],
+			[
+				"onew",
+				"OneWayType\tOneWayType"
+			],
+			[
+				"ty",
+				"myType\tOneWayType"
+			],
+			[
+				"direc",
+				"directionY"
+			],
+			[
+				"getcomponn",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"horizonta",
+				"horizontalRaySpacing"
+			],
+			[
+				"La",
+				"LayerMask"
+			],
+			[
+				"Translate",
+				"Translate(Vector3 translation)\tvoid"
+			],
+			[
+				"Dictio",
+				"Dictionary<TKey, TValue>()\tDictionary()"
+			],
+			[
+				"HashSet",
+				"HashSet<T>()\tHashSet()"
+			],
+			[
+				"Move",
+				"Move(Vector3 velocity, bool standingOnPlatform = false)\tvoid"
+			],
+			[
+				"move",
+				"Move(Vector3 velocity, bool standingOnPlatform = false)\tvoid"
+			],
+			[
+				"ispla",
+				"isPlaying\tbool { get; }"
+			],
+			[
+				"Appl",
+				"Application\tApplication"
+			],
+			[
+				"trasnform",
+				"transform.position"
+			],
+			[
+				"Raycast",
+				"RaycastHit2D\t(PlatformController.cs)"
+			],
+			[
+				"box",
+				"BoxCollider2D\tBoxCollider2D"
+			],
+			[
+				"transform",
+				"transform.position"
+			],
+			[
+				"Phy",
+				"Physics2D\t(PlatformController.cs)"
+			],
+			[
+				"transfor",
+				"transform.position"
+			],
+			[
+				"transfr",
+				"transform.position\t(PathFollow.cs)"
+			],
+			[
+				"comp",
+				"CompareTo(string strB)\tint"
+			],
+			[
+				"name",
+				"name\tstring { get; set; }"
+			],
+			[
+				"find",
+				"FindGameObjectsWithTag(string tag)\tGameObject[]"
+			],
+			[
+				"Findobjects",
+				"FindGameObjectsWithTag(string tag)\tGameObject[]"
+			],
+			[
+				"Vect",
+				"Vector3\tVector3"
+			],
+			[
+				"positio",
+				"position\tVector3 { get; set; }"
+			],
+			[
+				"dista",
+				"Distance(Vector3 a, Vector3 b)\tfloat"
+			],
+			[
+				"curre",
+				"currentCutscene\t(Inventory.cs)"
+			],
+			[
+				"Log",
+				"LogWarning(object message)\tvoid"
+			],
+			[
+				"log",
+				"LogError(object message)\tvoid"
+			],
+			[
+				"Add",
+				"Add(T item)\tvoid"
+			],
+			[
+				"Triggert",
+				"TriggerType"
+			],
+			[
+				"Globa",
+				"GlobalVars.resetTimer\t(Cutscene.cs)"
+			],
+			[
+				"trigg",
+				"_triggerPlay\tbool"
+			],
+			[
+				"boun",
+				"bounds\tBounds { get; }"
+			],
+			[
+				"Colli",
+				"ONCOLLISION\tTriggerType"
+			],
+			[
+				"Trigger",
+				"TriggerType\tTriggerType"
+			],
+			[
+				"trigger",
+				"myTrigger\tTriggerType"
+			],
+			[
+				"non",
+				"NONE\tTriggerType"
+			],
+			[
+				"Box",
+				"BoxCollider2D\t(Cutscene.cs)"
+			],
+			[
+				"stop",
+				"StopAllCoroutines()\tvoid"
+			],
+			[
+				"mydia",
+				"myDialogue.dialogues.Length"
+			],
+			[
+				"dialo",
+				"dialogueGO"
+			],
+			[
+				"Scrollt",
+				"TextScroll(string line)\tIEnumerator"
+			],
+			[
+				"unit",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"IENum",
+				"IEnumerator<\tIEnumerator<"
+			],
+			[
+				"dialog",
+				"dialogue"
+			],
+			[
+				"typet",
+				"_typeTimer\tfloat"
+			],
+			[
+				"return",
+				"ReturnToOriginalZoom(bool immediate = true, float speed = 2f)\tvoid"
+			],
+			[
+				"Glob",
+				"GlobalVars.resetTimer\t(Cutscene.cs)"
+			],
+			[
+				"Zoom",
+				"Zoom(float zoomValue = 13.39f, float speed = 2f)\tvoid"
+			],
+			[
+				"camera",
+				"myCamera\tCameraControls"
+			],
+			[
+				"comman",
+				"commands\tSortedDictionary<string, string[]>"
+			],
+			[
+				"mydial",
+				"myDialogue.dialogues[_currDialogue"
+			],
+			[
+				"c",
+				"commands\tSortedDictionary<string, string[]>"
+			],
+			[
+				"dialogues",
+				"dialogues\tDialogue[]"
+			],
+			[
+				"dialogu",
+				"dialogueGroup"
+			],
+			[
+				"Fad",
+				"FadeIn\t(Inventory.cs)"
+			],
+			[
+				"GetCom",
+				"GetComponent"
+			],
+			[
+				"Canvas",
+				"CanvasGroup"
+			],
+			[
+				"Canva",
+				"CanvasGroup"
+			],
+			[
+				"keylist",
+				"keyList.Count"
+			],
+			[
+				"keyl",
+				"keyList.Count"
+			],
+			[
+				"empt",
+				"RemoveAll(Predicate<T> match)\tint"
+			],
+			[
+				"inventor",
+				"inventory.keyList\t(ItemPickup.cs)"
+			],
+			[
+				"na",
+				"name\tstring { get; set; }"
+			],
+			[
+				"getcompon",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"minca",
+				"minCamera.x"
+			],
+			[
+				"pla",
+				"_played\tbool"
+			],
+			[
+				"Cuts",
+				"Cutscene\t(Cutscene.cs)"
+			],
+			[
+				"mincam",
+				"minCamera.y"
+			],
+			[
+				"maxca",
+				"maxCamera.x"
+			],
+			[
+				"maxCa",
+				"maxCamera.y"
+			],
+			[
+				"mypos",
+				"myPosition.x"
+			],
+			[
+				"maxc",
+				"maxCamera.x"
+			],
+			[
+				"clamp",
+				"Clamp(float value, float min, float max)\tfloat"
+			],
+			[
+				"min",
+				"minCamera.y"
+			],
+			[
+				"cuts",
+				"cutSceneBoundaryTransform"
+			],
+			[
+				"ortho",
+				"orthographicSize\tfloat { get; set; }"
+			],
+			[
+				"delta",
+				"deltaTime\tfloat { get; }"
+			],
+			[
+				"minCam",
+				"minCamera.x"
+			],
+			[
+				"maxcam",
+				"maxCamera.x"
+			],
+			[
+				"orth",
+				"orthographicSize\tfloat { get; set; }"
+			],
+			[
+				"or",
+				"orthographicSize\tfloat { get; set; }"
+			],
+			[
+				"Globalva",
+				"GlobalVars.resetTimer\t(Player.cs)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/Cutscene Behavior/Cutscene.cs",
+			"settings":
+			{
+				"buffer_size": 5426,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Level Behavior/PathFollow.cs",
+			"settings":
+			{
+				"buffer_size": 4145,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Entity/Controller2D.cs",
+			"settings":
+			{
+				"buffer_size": 9763,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Camera or other behaviors/Inventory.cs",
+			"settings":
+			{
+				"buffer_size": 6465,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Entity/Player.cs",
+			"settings":
+			{
+				"buffer_size": 18531,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Interactable Object Behavior/BasicItem.cs",
+			"settings":
+			{
+				"buffer_size": 2080,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Install ",
+		"selected_items":
+		[
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Install Package Control"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/BackgroundObjects",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Cutscene Behavior",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Enemy Behavior",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Entity",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Interactable Object Behavior",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/ProceduralStuff",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Projectile Behavior",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Resources/Dialogue JSON"
+	],
+	"file_history":
+	[
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Interactable Object Behavior/ItemPickup.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Interactable Object Behavior/BasicItem.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors/Inventory.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Entity/RaycastController.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/OneWay.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/PathFollow.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Entity/Controller2D.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/ParallaxTest.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/PlatformController.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/PopulateArray.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/PathFollow.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/PathFinder.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/AstarPathfindingProject/Core/AI/Seeker.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Entity/Player.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/BackgroundObjects/Womb.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Resources/Dialogue JSON/IntroLevel.json",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors/CameraControls.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors/CutsceneTrigger.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Cutscene Behavior/Cutscene.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Plans.txt",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/RedPathFinder.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Enemy Behavior/FollowAI.cs",
+		"/c/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/AstarPathfindingProject/Core/AI/AILerp.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Level Behavior/Path.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/AstarPathfindingProject/Core/AI/AILerp.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Enemy Behavior/StateMachine.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors/AnimatedText.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Resources/Dialogue JSON/IntroSpeech",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/myProject.sublime-project",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Resources/Dialogue JSON/testDialogue.json",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Interactable Object Behavior/Door.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/GlobalVars.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Enemy Behavior/RoamAI.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/Camera or other behaviors/RotateTowardsMouse.cs",
+		"/C/Users/Quasar/Documents/Unity Projects/Platformer Thing/Assets/Scripts/CrazyJeep.meta"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grounded",
+			"myparticlesystem.",
+			"standingonplatform",
+			"collisions.",
+			"velocity",
+			"input.",
+			"input",
+			"canmove",
+			"Inventory.FadeOut",
+			"inventory.fadeout",
+			"finished = false",
+			"ONPRESSED",
+			"Return",
+			"canmove = true",
+			"Reset",
+			"?",
+			"text",
+			"dialogue",
+			"clamp",
+			");\n",
+			"withinbounds = ",
+			"withinbounds",
+			"womb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/Cutscene Behavior/Cutscene.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3542,
+								3542
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1351,1358": "'Path' does not contain a definition for 'Combine'",
+								"1390,1391": "Cannot convert from ? to System.String",
+								"1391,1392": "Invocation error: ArgumentTypeMismatch"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1527.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/Level Behavior/PathFollow.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3732,
+								3732
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1100,1106": "Can be converted to expression",
+								"1107,1109": "'string.CompareTo' is culture-aware",
+								"19,24": "Using directive is not used by code and can be removed safely.",
+								"225,229": "Name should have prefix '_'. (Rule 'Fields').",
+								"248,253": "Name should have prefix '_'. (Rule 'Fields').",
+								"279,292": "Name should have prefix '_'. (Rule 'Fields').",
+								"316,328": "Name should have prefix '_'. (Rule 'Fields').",
+								"331,332": "Initializing field by default value is redundant",
+								"375,381": "Name should have prefix '_'. (Rule 'Fields').",
+								"452,467": "Name should have prefix '_'. (Rule 'Fields').",
+								"79,84": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 733.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/Entity/Controller2D.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4198,
+								4198
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1178,1186": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"1495,1499": "Use 'var' keyword",
+								"187,200": "Name should have prefix '_'. (Rule 'Fields').",
+								"19,24": "Using directive is not used by code and can be removed safely.",
+								"222,237": "Name should have prefix '_'. (Rule 'Fields').",
+								"259,275": "Name should have prefix '_'. (Rule 'Fields').",
+								"2800,2810": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"296,312": "Name should have prefix '_'. (Rule 'Fields').",
+								"342,352": "Name should have prefix '_'. (Rule 'Fields').",
+								"372,382": "Name should have prefix '_'. (Rule 'Fields').",
+								"4078,4079": "Assignment is redundant",
+								"4142,4143": "Assignment is redundant",
+								"419,429": "Name should have prefix '_'. (Rule 'Fields').",
+								"4430,4440": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"4471,4481": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"4699,4701": "Convert to '|=' expresssion",
+								"5036,5046": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"5331,5341": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"585,594": "Method 'AABBCheck' can be made static.",
+								"5905,5915": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"6313,6316": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"6407,6417": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"6610,6620": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"6783,6791": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"7089,7097": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"7377,7387": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"7421,7431": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"744,748": "Redundant 'else' keyword",
+								"819,837": "Parameter can be IComparable",
+								"8299,8309": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"8554,8564": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"8616,8621": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"9312,9317": "Name should have prefix '_'. (Rule 'Fields').",
+								"9319,9324": "Name should have prefix '_'. (Rule 'Fields').",
+								"9326,9338": "Name should have prefix '_'. (Rule 'Fields').",
+								"9354,9358": "Name should have prefix '_'. (Rule 'Fields').",
+								"9360,9365": "Name should have prefix '_'. (Rule 'Fields').",
+								"9382,9389": "Name should have prefix '_'. (Rule 'Fields').",
+								"9391,9404": "Name should have prefix '_'. (Rule 'Fields').",
+								"9406,9421": "Name should have prefix '_'. (Rule 'Fields').",
+								"9438,9448": "Name should have prefix '_'. (Rule 'Fields').",
+								"9450,9463": "Name should have prefix '_'. (Rule 'Fields').",
+								"9482,9493": "Name should have prefix '_'. (Rule 'Fields').",
+								"9495,9506": "Name should have prefix '_'. (Rule 'Fields').",
+								"9508,9524": "Name should have prefix '_'. (Rule 'Fields').",
+								"9539,9554": "Name should have prefix '_'. (Rule 'Fields').",
+								"988,996": "Comparison of floating point numbers can be unequal due to the differing precision of the two values."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/Camera or other behaviors/Inventory.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								174
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"19,24": "Using directive is not used by code and can be removed safely.",
+								"190,203": "'InventoryList' should start with a lower case letter. (Rule 'Fields')",
+								"256,263": "Name should have prefix '_'. (Rule 'Fields').",
+								"280,300": "Name should have prefix '_'. (Rule 'Fields').",
+								"317,328": "Name should have prefix '_'. (Rule 'Fields').",
+								"355,367": "Name should have prefix '_'. (Rule 'Fields').",
+								"386,402": "Name should have prefix '_'. (Rule 'Fields').",
+								"421,440": "Name should have prefix '_'. (Rule 'Fields').",
+								"4615,4620": "Parameter 'delay' is never used",
+								"4641,4643": "Convert to '?:' expression",
+								"480,486": "Name should have prefix '_'. (Rule 'Fields').",
+								"4959,4961": "Convert to '?:' expression",
+								"537,552": "Name should have prefix '_'. (Rule 'Fields').",
+								"591,605": "Name should have prefix '_'. (Rule 'Fields').",
+								"608,609": "Initializing field by default value is redundant",
+								"949,959": "Variable could be moved to a nested scope"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 45.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Scripts/Entity/Player.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15841,
+								15841
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1005,1017": "Name should have prefix '_'. (Rule 'Fields').",
+								"10286,10291": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"1038,1054": "Name should have prefix '_'. (Rule 'Fields').",
+								"10427,10432": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"10576,10578": "Convert to '&=' expresssion",
+								"11103,11108": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"1120,1127": "Name should have prefix '_'. (Rule 'Fields').",
+								"1146,1157": "Name should have prefix '_'. (Rule 'Fields').",
+								"11543,11548": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"11983,11988": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"12128,12133": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"12271,12276": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"12318,12323": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"12366,12371": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"14763,14764": "Comparison with 'false' is redundant",
+								"149,160": "Name should have prefix '_'. (Rule 'Fields').",
+								"15036,15038": "Convert to '|=' expresssion",
+								"15239,15241": "Convert to '&=' expresssion",
+								"15538,15539": "Comparison with 'true' is redundant",
+								"15908,15909": "Comparison with 'false' is redundant",
+								"16815,16816": "Comparison with 'true' is redundant",
+								"16857,16858": "Comparison with 'true' is redundant",
+								"17239,17240": "Comparison with 'true' is redundant",
+								"17569,17570": "Comparison with 'false' is redundant",
+								"17810,17811": "Comparison with 'true' is redundant",
+								"17996,18006": "Parameter can be declared with base type",
+								"19,24": "Using directive is not used by code and can be removed safely.",
+								"1908,1913": "Initializing field by default value is redundant",
+								"1932,1943": "'resetPlayer' should start with an upper case letter. (Rule 'Methods')",
+								"214,222": "Name should have prefix '_'. (Rule 'Fields').",
+								"242,251": "Name should have prefix '_'. (Rule 'Fields').",
+								"269,276": "Convert to constant",
+								"301,311": "Name should have prefix '_'. (Rule 'Fields').",
+								"3224,3226": "Convert to '&=' expresssion",
+								"340,341": "Initializing field by default value is redundant",
+								"353,364": "Convert to constant",
+								"3646,3647": "Comparison with 'false' is redundant",
+								"3889,3894": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"4017,4022": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"4040,4045": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"413,414": "Initializing field by default value is redundant",
+								"427,439": "Convert to constant",
+								"531,548": "Name should have prefix '_'. (Rule 'Fields').",
+								"5314,5321": "Assignment is redundant",
+								"5550,5552": "Convert to '&=' expresssion",
+								"5712,5720": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"573,586": "Name should have prefix '_'. (Rule 'Fields').",
+								"607,618": "Name should have prefix '_'. (Rule 'Fields').",
+								"639,647": "Name should have prefix '_'. (Rule 'Fields').",
+								"6650,6658": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"6837,6839": "Convert to '?:' expression",
+								"6841,6846": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"7146,7151": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"7546,7548": "Convert to '?:' expression",
+								"7550,7555": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"794,804": "Name should have prefix '_'. (Rule 'Fields').",
+								"8287,8296": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"8546,8551": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"8674,8679": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"879,886": "Name should have prefix '_'. (Rule 'Fields').",
+								"8858,8866": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"945,952": "Name should have prefix '_'. (Rule 'Fields').",
+								"973,984": "Name should have prefix '_'. (Rule 'Fields')."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 521.0,
+						"translation.y": 5881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Assets/Scripts/Interactable Object Behavior/BasicItem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 7.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "myProject.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
